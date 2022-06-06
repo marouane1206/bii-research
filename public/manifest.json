@@ -1,0 +1,15 @@
+{
+  "short_name": "BII App",
+  "name": "Business Intelligence & Insights App",
+  "icons": [
+    {
+      "src": "bii.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
